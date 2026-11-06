@@ -51,15 +51,21 @@ Participated in YCPHacks 2025, earning **2nd place** with a team project.
 ---
 
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahellmann201&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahellmann201&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahellmann201&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahellmann201&theme=tokyonight)
+
 
 
 ---
 
+
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-ahellmann201-181717?style=for-the-badge&logo=github)](https://github.com/ahellmann201)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hellmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hellmann-686108332/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ahellmann201-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahellmann201)
+
