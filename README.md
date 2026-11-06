@@ -8,6 +8,17 @@ I'm a software engineering student passionate about building practical applicati
 - 🌱 Learning more about **software architecture, embedded systems, and machine learning**
 - ⚡ Interested in **backend development, computer vision, and hardware-software integration**
 
+
+---
+
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hellmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hellmann-686108332/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ahellmann201-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahellmann201)
+
+
 ---
 
 ## 🛠️ Tech Stack
@@ -60,12 +71,5 @@ Participated in YCPHacks 2025, earning **2nd place** with a team project.
 
 
 
----
 
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hellmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hellmann-686108332/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ahellmann201-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahellmann201)
 
