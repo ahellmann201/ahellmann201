@@ -50,11 +50,13 @@ Participated in YCPHacks 2025, earning **2nd place** with a team project.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahellmann201&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahellmann201&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahellmann201&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahellmann201&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 
 ---
 
