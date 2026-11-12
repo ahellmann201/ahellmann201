@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew Hellmann! 👋
+# Hi there, I'm Andrew Hellmann! 
 
 ### 💻 Software Engineering Student | Backend Developer | Embedded Systems Enthusiast
 
