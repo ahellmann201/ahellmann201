@@ -42,6 +42,10 @@ I'm a software engineering student passionate about building practical applicati
 
 ## 🚀 Featured Projects
 
+### 🧩 [ReForge](https://github.com/Reforge-Dev) — Modular Game Project
+
+**In progress.** A team project exploring a modular game architecture, with a shared engine, a dungeon crawler, and a cybersecurity-themed module.
+
 ### 🎳 RevMetrix — Bowling Analytics Platform
 A team capstone project focused on bowling analytics using computer vision, machine learning, and database technologies.
 
